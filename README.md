@@ -1,5 +1,3 @@
-<h1 align="center">Cláudio Bento Dala</h1>
-    
 <div align="center" >Full stack web developer</div>
 
 ---
