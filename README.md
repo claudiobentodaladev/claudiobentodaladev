@@ -3,7 +3,6 @@
   ### Full stack web developer
 
 [![committers.top badge](https://user-badge.committers.top/angola_public/claudiobentodaladev.svg)](https://user-badge.committers.top/angola_public/claudiobentodaladev)
-![Profile Views](https://komarev.com/ghpvc/?username=claudiobentodaladev\&color=blueviolet\&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/claudiobentodaladev?style=social)](https://github.com/claudiobentodaladev)
 
 </div>
