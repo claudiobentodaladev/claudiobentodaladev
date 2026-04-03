@@ -1,7 +1,5 @@
 <div align="center">
 
-  ### Full stack web developer
-
 [![committers.top badge](https://user-badge.committers.top/angola_public/claudiobentodaladev.svg)](https://user-badge.committers.top/angola_public/claudiobentodaladev)
 [![GitHub followers](https://img.shields.io/github/followers/claudiobentodaladev?style=social)](https://github.com/claudiobentodaladev)
 
@@ -26,7 +24,6 @@
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" />
 </div>
 
-
 ### **Databases**
 
 <div align="left">
@@ -43,13 +40,12 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 
-
 ## GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=claudiobentodaladev\&show_icons=true\&theme=radical\&include_all_commits=true\&count_private=true\&hide_border=true\&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=claudiobentodaladev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=claudiobentodaladev\&layout=compact\&theme=radical\&hide_border=true\&bg_color=0d1117)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=claudiobentodaladev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
 
 </div>
